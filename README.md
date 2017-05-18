@@ -11,9 +11,8 @@ pip install -f requirements.txt
 #### Manual Installation necessary:
 The following two packages are necessary for this package to run!
 ##### Python-Ts3
-1.) git clone git://github.com/nikdoof/python-ts3.git
-2.) cd python-ts3
-3.) python setup.py install
+Follow installation instructions on  https://github.com/nikdoof/python-ts3
+
 
 ##### MySQLDB
 apt-get install python-mysqldb
