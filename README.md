@@ -1,4 +1,4 @@
-# raspberrypi-servermonitor
+# VPS Monitor Using Raspberry Pi
 This package contains scripts used for my personal server monitor.
 It currently monitors performance (CPU, Memory Usage) of my Dedicated Root Server as well as Usage of several hosted Services, including Teamspeak 3 Current User Count and GameServer (MineCraft implemented) Clients Online.
 
