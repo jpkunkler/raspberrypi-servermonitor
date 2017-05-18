@@ -1,4 +1,4 @@
-OS_PATH = '/home/*USER*/*PATH_TO_SCRIPT*/status_check/'
+OS_PATH = '/home/*USER*/*PATH_TO_SCRIPT*/'
 
 HOSTNAME = 'YOUR-HOSTNAME.COM'
 SSH_PORT = 22 # change if non-default port is used
