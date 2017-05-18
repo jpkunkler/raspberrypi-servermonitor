@@ -1,0 +1,5 @@
+#python-ts3 -- GitHub repo
+#MySQLdb -- apt-get install python-mysqldb
+
+mcstatus
+paramiko
