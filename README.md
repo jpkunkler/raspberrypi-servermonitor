@@ -9,4 +9,11 @@ It currently monitors performance (CPU, Memory Usage) of my Dedicated Root Serve
 pip install -f requirements.txt
 
 #### Manual Installation necessary:
-python-ts3 by 
+The following two packages are necessary for this package to run!
+##### Python-Ts3
+git clone git://github.com/nikdoof/python-ts3.git
+cd python-ts3
+python setup.py install
+
+##### MySQLDB
+apt-get install python-mysqldb
