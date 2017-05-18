@@ -14,6 +14,7 @@ If one or multiple services cannot be reached, the Server Monitor will notify yo
 
 ### Pictures:
 ![alt text](https://github.com/jpkunkler/raspberrypi-servermonitor/blob/master/images/monitor.png)
+![alt text](https://github.com/jpkunkler/raspberrypi-servermonitor/blob/master/images/error.png)
 
 ## Requirements
 You need the following:
