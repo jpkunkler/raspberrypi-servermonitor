@@ -2,6 +2,14 @@
 This package contains scripts used for my personal server monitor.
 It currently monitors performance (CPU, Memory Usage) of my Dedicated Root Server as well as Usage of several hosted Services, including Teamspeak 3 Current User Count and GameServer (MineCraft implemented) Clients Online.
 
+#### Services Monitored:
+- SSH Availability
+- FTP Availability
+- MySQL Availability
+- Teamspeak 3 Monitor including Clients Online Status
+- Minecraft Server Status
+- Website Status
+
 ### Pictures:
 ![alt text](https://github.com/jpkunkler/raspberrypi-servermonitor/blob/master/images/monitor.png)
 
