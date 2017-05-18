@@ -1,5 +1,5 @@
 import paramiko
-from config import HOSTNAME
+from config import HOSTNAME, SSH_PORT
 
 def sshStatus(user, pw):
     ssh = paramiko.SSHClient()
