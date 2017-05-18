@@ -39,3 +39,9 @@ apt-get install python-mysqldb
 
 After installing the above requirements, open config.py file and adjust settings to your server instances.
 Once you are done, create a Cronjob to run every 5 minutes (recommended).
+Also create a cronjob to run backlight_off.py some time in the evening/at night if you want the display to shut down.
+To manually switch the backlight on and off, use backlight_switch.py script.
+
+You can also connect additional tactile buttons to your Pi via GPIO and set those buttons to run:
+- update_switch.py to manually update your status monitor
+- backlight_switch.py to turn on/off the lcd backlight
